@@ -8,7 +8,7 @@ Lightweight markdown editor/viewer written by c++ , for windows user. It's a gre
 Download
 --------
 
-<https://github.com/chunlei36/MarkdownEditor-chunlei.git/download/MarkdownEditor.zip>
+<https://github.com/chunlei36/MarkdownEditor-chunlei.git/download/MarkdownEditor.zip?raw=true>
 
 Usage
 -----
