@@ -1,3 +1,4 @@
+轻量级Markdown编辑器
 MarkdownEditor
 ==============
 
